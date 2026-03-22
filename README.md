@@ -14,7 +14,7 @@ The goal of the project is to bridge the gap between expensive hotels and unreli
 - Nardos — DevOps/Admin + Integration Support
   
 ## Design Board
-[Figma Design LINK](https://www.figma.com/design/hVxj5v56P4jDLdutmbMs5F/Travel-App-UI-Design--Community-?node-id=1-2&p=f&t=GetSK8Oyd0mbQyYp-0)
+[Figma Design LINK](https://www.figma.com/design/0BHhZVXujSHfKlJZS1aEaI/Untitled?node-id=32-117&t=yEPUGLeypmrgDBTt-1)
 
 ## Project Board
 [Jira Project LINK](https://betlink.atlassian.net/jira/software/projects/KAN/summary)
