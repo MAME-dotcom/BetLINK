@@ -17,4 +17,4 @@ The goal of the project is to bridge the gap between expensive hotels and unreli
 [Figma Design Board](PASTE_YOUR_FIGMA_LINK_HERE)
 
 ## Project Board
-[Jira Project Board](PASTE_YOUR_JIRA_LINK_HERE)
+[Jira Project Board](https://betlink.atlassian.net/jira/software/projects/KAN/summary)
