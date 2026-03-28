@@ -7,7 +7,7 @@ The goal of the project is to bridge the gap between expensive hotels and unreli
 
 ## Team Members and Technical Roles
 - Mohammed — Product/Project Lead
-- Tofick — UI/UX Designer
+- Tewfik — UI/UX Designer
 - Hailemichael — Mobile App Developer
 - Bekalu — Backend/API Developer
 - Biruk — QA/Test Engineer
