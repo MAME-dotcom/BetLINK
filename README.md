@@ -5,13 +5,7 @@ This project is a platform designed to help travelers and budget-conscious users
 
 The goal of the project is to bridge the gap between expensive hotels and unreliable informal lodging by connecting users with verified budget-friendly rooms, guesthouses, hostels, and similar stays. The platform emphasizes convenience, affordability, and trust.
 
-## Team Members and Technical Roles
-- Mohammed — Product/Project Lead
-- Tewfik — UI/UX Designer
-- Hailemichael — Mobile App Developer
-- Bekalu — Backend/API Developer
-- Biruk — QA/Test Engineer
-- Nardos — DevOps/Admin + Integration Support
+
   
 ## Design Board
 [Figma Design LINK](https://www.figma.com/design/0BHhZVXujSHfKlJZS1aEaI/Untitled?node-id=32-117&t=yEPUGLeypmrgDBTt-1)
